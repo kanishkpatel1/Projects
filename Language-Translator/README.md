@@ -1,4 +1,4 @@
-#Click Here to view it [](https://translator-using-api.netlify.app/)
+# Click Here to view it Open [open it](https://translator-using-api.netlify.app/)
 
 
 # Getting Started with Create React App
